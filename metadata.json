@@ -1,6 +1,8 @@
 {
-  "name": "ChimneyLens",
-  "description": "Screening tool turning satellite brick-kiln detections into a prioritised field-visit plan for environmental inspection.",
+  "name": "Remix ChimneyLens",
+  "description": "A mobile-first screening tool for prioritizing brick-kiln field inspections using satellite-based detection data.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
